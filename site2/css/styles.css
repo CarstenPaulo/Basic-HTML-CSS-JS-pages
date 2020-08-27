@@ -1,0 +1,149 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: cursive;
+}
+
+#navbar {
+    background: #011627;
+    margin-bottom: 5%;
+    width: 100%;
+}
+
+.navbar-brand {
+    color: white !important;
+}
+
+.nav-item a {
+    color: white !important;
+}
+
+.navbar-nav {
+    float: right;
+}
+
+.navbar-nav a {
+    margin-left: 10px;
+}
+
+.navbar-toggler {
+    background-color: #ffff !important;
+}
+
+
+/*banner*/
+
+#banner {}
+
+.title-banner {
+    font-weight: 900;
+    font-size: 50px;
+}
+
+.paragraph-banner {
+    margin-top: 3%;
+}
+
+.container .btn-primary {
+    margin-top: 3%;
+    height: 45px;
+    width: 120px;
+}
+
+#banner .container .btn-secondary {
+    margin-top: 3%;
+    height: 45px;
+    width: 120px;
+    background-color: black;
+}
+
+
+/* call to action */
+
+#call-to-action {
+    margin-top: 1%;
+    background: #011627;
+    color: white;
+    padding-bottom: 2%;
+    width: 100%;
+}
+
+.title-action {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#call-to-action .btn-secondary {
+    background-color: black;
+    margin-top: 20px;
+    height: 45px;
+    width: 120px;
+}
+
+
+/* services */
+
+#services {
+    margin-top: 20px;
+    margin-bottom: 3%;
+}
+
+.title {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.icon-center {
+    margin-bottom: 20px;
+    font-size: 35px;
+    margin-top: 10px;
+}
+
+.second-title {
+    margin-bottom: 30px;
+}
+
+
+/* portfolio */
+
+#portfolio .container-fluid {
+    margin: 0%;
+    width: 100%;
+    margin-bottom: 2%;
+}
+
+.img-fluid {
+    margin: 0%;
+}
+
+
+/* contact */
+
+#contato {
+    margin-top: 20px;
+}
+
+.form-group .btn {
+    float: right;
+    margin-top: 5px;
+}
+
+
+/* footer */
+
+#footer {
+    background: #011627;
+    margin-top: 3%;
+}
+
+#footer .container {
+    color: white !important;
+}
+
+.footerborder {
+    border-top-style: solid;
+    color: #011627;
+}
+
+
+/* responsive to mobiel */
